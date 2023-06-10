@@ -4,6 +4,7 @@
 ![day2](https://github.com/singhswatii/100daysOfcode/assets/89398578/27bb849e-c197-4590-9aa4-69c3d649a6de)
 ![day3](https://github.com/singhswatii/100daysOfcode/assets/89398578/fbc2d41b-1fce-47a8-a4b6-d72d088892c7)
 ![day4](https://github.com/singhswatii/100daysOfcode/assets/89398578/539fec90-90d0-4d96-9dab-af5de63fb4af)
+![day5](https://github.com/singhswatii/100daysOfcode/assets/89398578/41308d37-a5dd-4216-9c59-8b6e50c1b875)
 
 
 
