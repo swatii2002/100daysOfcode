@@ -9,6 +9,7 @@
 ![day7](https://github.com/singhswatii/100daysOfcode/assets/89398578/80e67a5b-1128-4d7f-a9d5-39fa0603e65a)
 ![day8](https://github.com/singhswatii/100daysOfcode/assets/89398578/7a2141ab-f03e-4364-a28c-069a5cd686e5)
 ![day9](https://github.com/singhswatii/100daysOfcode/assets/89398578/d5512541-c7f2-43b2-8349-716e54fc935d)
+![day10](https://github.com/singhswatii/100daysOfcode/assets/89398578/8708db6d-d9f7-4992-8df0-0b6d09ddb25c)
 
 
 
