@@ -22,6 +22,7 @@
 ![day20](https://github.com/singhswatii/100daysOfcode/assets/89398578/edf22331-3820-479e-a08e-fc487c2c2286)
 ![day21](https://github.com/singhswatii/100daysOfcode/assets/89398578/203725c9-6457-4ee1-9a9a-6b496562e0ad)
 ![day22](https://github.com/singhswatii/100daysOfcode/assets/89398578/9e8c1c7f-e4c6-48e9-8824-846d61acf661)
+![day23](https://github.com/singhswatii/100daysOfcode/assets/89398578/a70a3dc1-1b85-45b0-b173-9620ac76280f)
 
 
 
