@@ -30,6 +30,7 @@
 ![day28](https://github.com/singhswatii/100daysOfcode/assets/89398578/6ecaf197-9274-4154-bb04-86f0cc1825ad)
 ![day29](https://github.com/singhswatii/100daysOfcode/assets/89398578/cdcf57ae-2424-4693-9793-097c99dfe128)
 ![day30 png](https://github.com/singhswatii/100daysOfcode/assets/89398578/1a36ac6b-4269-4652-8559-5282feb0cf21)
+![day31 png](https://github.com/singhswatii/100daysOfcode/assets/89398578/0857af90-5c76-4934-a8ee-b13556733671)
 
 
 
