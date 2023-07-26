@@ -46,7 +46,8 @@
 <img width="1278" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/45cfda8a-ffeb-4d53-9303-3a4e6a5f912a">
 <img width="950" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/60802a4c-373d-4035-ab87-a5e5c3aadcfb">
 ![day45.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/c2bb5e83-fe58-4977-8c37-3073c8ff3f17)
-![day45.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/17591685-261c-46ea-9b1d-f2ed5d6f501e)
+![day46.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/17591685-261c-46ea-9b1d-f2ed5d6f501e)
+![day47.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/a5b4fe81-ee22-426d-91a7-5379e93584b2)
 
 
 
