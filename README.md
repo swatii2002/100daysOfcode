@@ -50,6 +50,7 @@
 ![day47.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/a5b4fe81-ee22-426d-91a7-5379e93584b2)
 ![day48.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/c9fbe41d-6979-448a-94d7-40b47bd0b283)
 ![day49.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/cca41a75-b296-4cf5-8151-e6d106a75c6b)
+![day50.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/03520c34-4c46-4bd1-839f-32cd50424a8e)
 
 
 
