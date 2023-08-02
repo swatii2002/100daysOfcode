@@ -54,6 +54,7 @@
 ![day51.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/6a9359c9-fa4b-4fcb-bfec-2d1831ce360b)
 <img width="953" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/d8c1b75e-aadf-4060-a79e-45cf9035c4ed">
 <img width="953" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/c88ab45e-35a6-4963-ac20-3365c3d3559e">
+<img width="1278" alt="Screenshot 2023-08-02 at 11 54 02 PM" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/31c466c8-fb66-4c51-80e2-fe034b623704">
 
 
 
