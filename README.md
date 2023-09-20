@@ -1,5 +1,3 @@
-
-
 ![day1](https://github.com/singhswatii/100daysOfcode/assets/89398578/2e12744a-352a-40e5-b5cf-f00ec6ae3428)
 ![day2](https://github.com/singhswatii/100daysOfcode/assets/89398578/27bb849e-c197-4590-9aa4-69c3d649a6de)
 ![day3](https://github.com/singhswatii/100daysOfcode/assets/89398578/fbc2d41b-1fce-47a8-a4b6-d72d088892c7)
@@ -38,7 +36,6 @@
 ![day36.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/3e7ef723-5032-42a3-b52a-ebc775fbfe12)
 ![day37.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/48321b94-9052-4500-ad49-0fc32a19c26f)
 <img width="954" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/973fa564-3786-4a54-a49e-2640da92a56e">
-
 ![day39png](https://github.com/singhswatii/100daysOfcode/assets/89398578/c9170fb5-39c7-43b4-b29b-90abc638c394)
 ![day40.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/5eb6af73-f3d8-4a56-aa3a-fbfca72ea3b5)
 ![day41.png](https://github.com/singhswatii/100daysOfcode/assets/89398578/31ef41ec-2ddc-4812-b8e9-e5b2da1ff489)
@@ -56,7 +53,7 @@
 <img width="953" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/c88ab45e-35a6-4963-ac20-3365c3d3559e">
 <img width="1278" alt="Screenshot 2023-08-02 at 11 54 02 PM" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/31c466c8-fb66-4c51-80e2-fe034b623704">
 <img width="949" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/d211363b-e32b-406a-ad60-e49186ea0bdf">
-<img width="1280" alt="Screenshot 2023-08-04 at 11 19 49 PM" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/5f54fee8-6e11-4f5c-a997-1f812e67c135">
+![image](https://github.com/singhswatii/100daysOfcode/assets/89398578/78255a3d-5339-40a3-82ec-399ae9f874f0)
 <img width="954" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/3b181659-3ece-4c15-9d79-1f718f7abbc8">
 <img width="952" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/d02fd3bb-3181-4625-8766-44553eaa1929">
 <img width="944" alt="image" src="https://github.com/singhswatii/100daysOfcode/assets/89398578/843ad44c-1db9-4b32-b9c1-bee7f4a4dd14">
